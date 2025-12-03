@@ -5,6 +5,10 @@ edition = "2024"
 authors = ["Sergey Reshetnikov <shaman@simmirra.com>"]
 license = "MIT"
 keywords = ["id", "identity", "generator", "uniqueness"]
+description = """
+A lightweight Rust library for generating unique identifiers based on system uptime and Unix timestamp.
+Perfect for applications that need simple, fast, and unique ID generation without external dependencies.
+"""
 
 
 [dependencies]
