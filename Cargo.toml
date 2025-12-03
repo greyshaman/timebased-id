@@ -1,0 +1,11 @@
+[package]
+name = "timebased-id"
+version = "0.1.0"
+edition = "2024"
+authors = ["Sergey Reshetnikov <shaman@simmirra.com>"]
+license = "MIT"
+keywords = ["id", "identity", "generator", "uniqueness"]
+
+
+[dependencies]
+system-uptime = "0.1.2"
