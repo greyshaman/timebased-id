@@ -5,6 +5,9 @@ edition = "2024"
 authors = ["Sergey Reshetnikov <shaman@simmirra.com>"]
 license = "MIT"
 keywords = ["id", "identity", "generator", "uniqueness"]
+readme = "README.md"
+repository = "https://github.com/greyshaman/timebased-id"
+homepage = "https://github.com/greyshaman/timebased-id"
 description = """
 A lightweight Rust library for generating unique identifiers based on system uptime and Unix timestamp.
 Perfect for applications that need simple, fast, and unique ID generation without external dependencies.
